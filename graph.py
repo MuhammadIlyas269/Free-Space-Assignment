@@ -3,6 +3,13 @@ BFS Code is copy from below site beacuse actual assigment is to identify data st
 Comments with "New" are task execution logic which I own it not copy from any site 
 https://www.educative.io/answers/graphs-basics-representation-traversals-and-applications
 
+Assingment Questions:
+1. Identify data structure to represent a task?
+    Graph Data Structure
+2. Assumaption for completion?
+    Yes if strongly connected.
+3. Unit Test Cases
+    
 """
 def bfs(graph, start):
     path = []
